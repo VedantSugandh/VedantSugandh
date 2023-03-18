@@ -4,7 +4,7 @@
 
 
 ### 🤗Welcome to my Github Profile
- I am a data analyst with a strong background in accounting and sales. Using data to drive business growth has always been my passion, and after several years in these fields, I decided to transition to data analysis. I am proficient in SQL, Python, and data visualization tools like Tableau and Power BI, and  statistical analysis. As a data analyst, I am committed to delivering accurate and actionable insights to help businesses make better decisions. I enjoy working with cross-functional teams and am always looking for new challenges and opportunities to learn and grow.
+ I am a data analyst with a strong background in accounting and sales. Using data to drive business growth has always been my passion, and after 2 years in these fields, I decided to transition to data analysis. I am proficient in SQL, Python, and data visualization tools like Tableau and Power BI, and  statistical analysis. As a data analyst, I am committed to delivering accurate and actionable insights to help businesses make better decisions. I enjoy working with cross-functional teams and am always looking for new challenges and opportunities to learn and grow.
  
  
 
