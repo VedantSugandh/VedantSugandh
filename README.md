@@ -30,7 +30,8 @@
 
 - 🌱 I’m currently learning **Python libraries**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/vs](https://www.novypro.com/profile_projects/vs)
+- 👨‍💻 All of my Power BI Projects are available at [https://www.novypro.com/profile_projects/vs](https://www.novypro.com/profile_projects/vs) / 
+- 👨‍ All of my Excel Projects are available at    https://1drv.ms/f/s!AnJxnnrQk7hLgRXV-k84yAJfzZUQ?e=MZFXSM                   
 
 - 💬 Ask me about **anything, I'm happy to help.**
 
