@@ -3,8 +3,13 @@
 <img align="right" alt="coding" width="256" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 
-### 🤗Welcome to my Github Profile
- I am a data analyst with a strong background in accounting and sales. Using data to drive business growth has always been my passion, and after 2 years in these fields, I decided to transition to data analysis. I am proficient in SQL, Python, and data visualization tools like Tableau and Power BI, and  statistical analysis. As a data analyst, I am committed to delivering accurate and actionable insights to help businesses make better decisions. I enjoy working with cross-functional teams and am always looking for new challenges and opportunities to learn and grow.
+### 🤗Welcome to my GitHub Profile
+
+With over 3 years of experience as a Retail Banking Analyst, Data Analyst, Strategy building, and MIS Reporting, I possess a strong foundation in collecting, organizing, and analyzing data to empower organizations in making well-informed decisions. Currently, I am thriving as a Data Analyst at Edventure Software, where my responsibilities encompass managing both secured and unsecured credit portfolios. My key focus lies in areas like "CUSTOMER RISK APPETITE" and "CUSTOMER RISK ANALYSIS."
+
+Additionally, I excel in designing complex database models, particularly snowflake data models, and providing comprehensive reporting on account origination, performance, collection, and recovery. Moreover, I undertake ad-hoc analysis to tackle diverse challenges.
+
+In executing my regular job responsibilities, I predominantly utilize the basic programming languages SAS and SQL, and we are currently transitioning toward Python. For reporting purposes, I am adept at using Tableau, Power BI, and Excel to provide clear and actionable insights.
  
  
 
@@ -12,6 +17,7 @@
 ## 💻Skills: 
 * Power BI
 * SQL
+* SAS
 * Advance Excel
 * Alteryx
 * Python
@@ -39,7 +45,7 @@
 
 - 💬 Ask me about **anything, I'm happy to help.**
 
-- 📫 How to reach me **1vedantsugandh@gmail.com / 7415755513**
+- 📫 How to reach me **vedantsugandh91@gmail.com / 7415755513**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vedant-sugandh-533ab11ba/](https://www.linkedin.com/in/vedant-sugandh-533ab11ba/)
 
