@@ -5,11 +5,11 @@
 
 ### 🤗Welcome to my GitHub Profile
 
-With over 3 years of experience as a Retail Banking Analyst, Data Analyst, Strategy building, and MIS Reporting, I possess a strong foundation in collecting, organizing, and analyzing data to empower organizations in making well-informed decisions. Currently, I am thriving as a Data Analyst at Edventure Software, where my responsibilities encompass managing both secured and unsecured credit portfolios. My key focus lies in areas like "CUSTOMER RISK APPETITE" and "CUSTOMER RISK ANALYSIS."
+With over 4 years of experience as a Retail Banking Analyst, Data Analyst, Strategy building, and MIS Reporting, I possess a strong foundation in collecting, organizing, and analyzing data to empower organizations in making well-informed decisions. Currently, I am thriving as a Data Analyst at Edventure Software, where my responsibilities encompass managing both secured and unsecured credit portfolios. My key focus lies in "CUSTOMER RISK APPETITE" and "CUSTOMER RISK ANALYSIS."
 
 Additionally, I excel in designing complex database models, particularly snowflake data models, and providing comprehensive reporting on account origination, performance, collection, and recovery. Moreover, I undertake ad-hoc analysis to tackle diverse challenges.
 
-In executing my regular job responsibilities, I predominantly utilize the basic programming languages SAS and SQL, and we are currently transitioning toward Python. For reporting purposes, I am adept at using Tableau, Power BI, and Excel to provide clear and actionable insights.
+In executing my regular job responsibilities, I predominantly utilize the basic programming languages SAS and SQL, and we are currently transitioning toward Python. I am adept at using Tableau, Power BI, and Excel to provide clear and actionable insights for reporting purposes.
  
  
 
@@ -45,7 +45,7 @@ In executing my regular job responsibilities, I predominantly utilize the basic 
 
 - 💬 Ask me about **anything, I'm happy to help.**
 
-- 📫 How to reach me **vedantsugandh91@gmail.com / 7415755513**
+- 📫 How to reach me **vedantsugandh99@gmail.com / 7415353934**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vedant-sugandh-533ab11ba/](https://www.linkedin.com/in/vedant-sugandh-533ab11ba/)
 
