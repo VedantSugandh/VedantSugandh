@@ -5,9 +5,9 @@
 
 ### 🤗Welcome to my GitHub Profile
 
-With over 4 years of experience as a Retail Banking Analyst, Data Analyst, Strategy building, and MIS Reporting, I possess a strong foundation in collecting, organizing, and analyzing data to empower organizations in making well-informed decisions. Currently, I am thriving as a Data Analyst at Edventure Software, where my responsibilities encompass managing both secured and unsecured credit portfolios. My key focus lies in "CUSTOMER RISK APPETITE" and "CUSTOMER RISK ANALYSIS."
+With over four years of experience as a Retail Banking Analyst, Data Analyst, Strategy builder, and MIS Reporter, I possess a strong foundation in collecting, organizing, and analyzing data to empower organizations to make well-informed decisions. I thrive as a Data Analyst at Phreesia, where my responsibilities encompass managing and analyzing US healthcare data to create data-driven dashboards for actionable insights. I have automated 70% of daily and weekly reports, conducted whitespace analysis to identify opportunities, and developed Salesforce dashboards and Power BI reports. I also summarize operational results for stakeholders provide strategic recommendations through reports and presentations and manage secured and unsecured credit portfolios. My key focus lies in "CUSTOMER RISK ANALYSIS."
 
-Additionally, I excel in designing complex database models, particularly snowflake data models, and providing comprehensive reporting on account origination, performance, collection, and recovery. Moreover, I undertake ad-hoc analysis to tackle diverse challenges.
+Additionally, I excel at designing complex database models, particularly snowflake data models, and providing comprehensive reporting on account origination, performance, collection, and recovery. I also undertake ad hoc analysis to tackle diverse challenges.
 
 In executing my regular job responsibilities, I predominantly utilize the basic programming languages SAS and SQL, and we are currently transitioning toward Python. I am adept at using Tableau, Power BI, and Excel to provide clear and actionable insights for reporting purposes.
  
